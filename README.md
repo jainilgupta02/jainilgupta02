@@ -116,25 +116,25 @@ ICT Engineering student (2026) with hands-on experience in cloud infrastructure,
 - Tech Stack: Cloud infrastructure, microservices, modern web frameworks
 
 ### 🏠 Smart Home Security System
-**IoT/Python** | [View Project](#)
+**IoT/Python**
 - Motion detection with real-time SMS alerts
 - Integration with IoT sensors and Python backend
 - Automated security monitoring system
 
 ### 🤖 IoT Vacuum Robot
-**Arduino, ROS** | [View Project](#)
+**Arduino, ROS**
 - Path optimization algorithm reducing runtime by 25%
 - Autonomous navigation and obstacle avoidance
 - Real-time sensor data processing
 
 ### 📚 E-Learning Platform
-**MERN Stack** | [View Project](#)
+**MERN Stack**
 - JWT authentication and role-based access
 - Video streaming with adaptive quality
 - Full-stack development with modern practices
 
 ### 💧 Smart Water Vending Machine
-**Arduino, NFC, IoT** | [View Project](#)
+**Arduino, NFC, IoT**
 - Cashless payment system with 99% accuracy
 - NFC-based transaction processing
 - IoT monitoring and analytics
@@ -153,7 +153,6 @@ ICT Engineering student (2026) with hands-on experience in cloud infrastructure,
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainilgupta02&layout=compact&theme=tokyonight&hide_border=true" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jainilgupta02&theme=tokyo-night&hide_border=true&area=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jainilgupta02&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 
 </div>
 

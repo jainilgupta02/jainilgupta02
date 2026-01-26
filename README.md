@@ -147,40 +147,27 @@ ICT Engineering student (2026) with hands-on experience in cloud infrastructure,
   
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-### 🔥 Current Streak & Contribution Stats
+<br><br>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jainilgupta02&theme=tokyonight" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jainilgupta02&theme=tokyonight" />
-</td>
-<td width="50%" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jainilgupta02&theme=tokyonight" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jainilgupta02&theme=tokyonight" />
-</td>
-</tr>
-</table>
+<a href="https://github.com/Jainilgupta02">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jainilgupta02&theme=tokyonight" />
+</a>
 
-### 🏆 GitHub Achievements
+<br><br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jainilgupta02&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</p>
+<a href="https://github.com/Jainilgupta02">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jainilgupta02&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jainilgupta02&theme=tokyonight&utcOffset=5.5" />
+</a>
 
-### 📈 Contribution Snake
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jainilgupta02/Jainilgupta02/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jainilgupta02/Jainilgupta02/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jainilgupta02/Jainilgupta02/output/github-contribution-grid-snake.svg">
-</picture>
+<a href="https://github.com/Jainilgupta02">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jainilgupta02&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jainilgupta02&theme=tokyonight" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jainilgupta02&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+<br><br>
 
 </div>
 

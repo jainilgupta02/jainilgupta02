@@ -83,9 +83,9 @@ ICT Engineering student (2026) with hands-on experience in cloud infrastructure,
 
 ### Microsoft Azure
 - ☁️ **AZ-104**: Azure Administrator
-- 💻 **AZ-204**: Azure Developer
+- 🤖 **AZ-204**: Azure Developer
 - 🔒 **AZ-500**: Azure Security
-- 🤖 **AI-900**: AI Fundamentals
+- 💻 **AZ-900**: Azure Fundamentals
 - 📊 **PL-300**: Power BI Data Analyst
 
 </td>
@@ -141,18 +141,46 @@ ICT Engineering student (2026) with hands-on experience in cloud infrastructure,
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Overview
 
 <div align="center">
   
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jainilgupta02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jainilgupta02&theme=tokyonight&hide_border=true" />
+### 🔥 Current Streak & Contribution Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainilgupta02&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jainilgupta02&theme=tokyo-night&hide_border=true&area=true" />
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jainilgupta02&theme=tokyonight" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jainilgupta02&theme=tokyonight" />
+</td>
+<td width="50%" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jainilgupta02&theme=tokyonight" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jainilgupta02&theme=tokyonight" />
+</td>
+</tr>
+</table>
 
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jainilgupta02&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</p>
+
+### 📈 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jainilgupta02/Jainilgupta02/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jainilgupta02/Jainilgupta02/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jainilgupta02/Jainilgupta02/output/github-contribution-grid-snake.svg">
+</picture>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jainilgupta02&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 </div>
 

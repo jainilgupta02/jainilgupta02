@@ -559,11 +559,6 @@ Arduino | NFC (RFID) | IoT Protocols | Cloud Database | Analytics
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jainilgupta02&bg_color=1a1b27&color=70a5fd&line=0ea5e9&point=0ea5e9&area=true&hide_border=true&custom_title=Contribution%20Activity%20Timeline" width="95%" alt="Contribution Graph"/>
 <br><br>
-<!-- Additional Metrics -->
-<img src="https://img.shields.io/badge/Total_Repositories-10+-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Repos"/>
-<img src="https://img.shields.io/badge/Total_Commits_(2025)-100+-8b5cf6?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" alt="Commits"/>
-<img src="https://img.shields.io/badge/Code_Reviews-10+-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Reviews"/>
-<img src="https://img.shields.io/badge/Pull_Requests-20+-06b6d4?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="PRs"/>
 </div>
 
 <!-- ====================================================================== -->

@@ -21,8 +21,15 @@
 
 <!-- Profile Statistics - Single Line -->
 <p align="center">
+
+<a href="https://github.com/Jainilgupta02">
   <img src="https://img.shields.io/github/followers/Jainilgupta02?label=Followers&style=for-the-badge&color=00ff00&labelColor=1a1b27&logo=github" alt="Followers" />
+</a>
+
+<a href="https://github.com/Jainilgupta02?tab=stars">
   <img src="https://img.shields.io/github/stars/Jainilgupta02?label=Stars&style=for-the-badge&color=00ff00&labelColor=1a1b27&logo=github" alt="Stars" />
+</a>
+
 </p>
 
 <!-- Animated Separator with Cyberpunk Style -->
@@ -787,9 +794,9 @@ If you find my projects helpful or inspiring, consider:
 <td align="center">
 <br>
 <img src="https://img.icons8.com/fluency/96/000000/workflow.png" width="70"/><br><br>
-<b>🚀 Projects Deployed</b><br>
-<h3><code>3+</code></h3>
-<sub>Production-ready applications</sub><br><br>
+<b>🚀 Projects in Progress</b><br>
+<h3><code>1+</code></h3>
+<sub>Cloud-based real estate platform (FlatPe)</sub><br><br>
 </td>
 <td align="center">
 <br>

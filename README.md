@@ -716,14 +716,18 @@ I'm always excited to connect with fellow technologists, entrepreneurs, and inno
 <br>
 
 <!-- Contact Information -->
+<!-- Contact Information -->
 <table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/github.png" width="50"/><br>
-<b>GitHub</b><br>
-<a href="[https://github.com/Jainilgupta02](https://github.com/jainilgupta02?tab=repositories)]">@Jainilgupta02</a>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/Jainilgupta02?tab=repositories">
+        <img src="https://img.icons8.com/fluency/96/000000/github.png" width="50"/>
+      </a>
+      <br>
+      <b>GitHub</b><br>
+      <a href="https://github.com/Jainilgupta02?tab=repositories">@Jainilgupta02</a>
+    </td>
+  </tr>
 </table>
 
 <br>

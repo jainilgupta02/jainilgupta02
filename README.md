@@ -560,10 +560,10 @@ Arduino | NFC (RFID) | IoT Protocols | Cloud Database | Analytics
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jainilgupta02&bg_color=1a1b27&color=70a5fd&line=0ea5e9&point=0ea5e9&area=true&hide_border=true&custom_title=Contribution%20Activity%20Timeline" width="95%" alt="Contribution Graph"/>
 <br><br>
 <!-- Additional Metrics -->
-<img src="https://img.shields.io/badge/Total_Repositories-30+-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Repos"/>
-<img src="https://img.shields.io/badge/Total_Commits_(2025)-500+-8b5cf6?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" alt="Commits"/>
-<img src="https://img.shields.io/badge/Code_Reviews-50+-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Reviews"/>
-<img src="https://img.shields.io/badge/Pull_Requests-40+-06b6d4?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="PRs"/>
+<img src="https://img.shields.io/badge/Total_Repositories-10+-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Repos"/>
+<img src="https://img.shields.io/badge/Total_Commits_(2025)-100+-8b5cf6?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" alt="Commits"/>
+<img src="https://img.shields.io/badge/Code_Reviews-10+-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Reviews"/>
+<img src="https://img.shields.io/badge/Pull_Requests-20+-06b6d4?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="PRs"/>
 </div>
 
 <!-- ====================================================================== -->
@@ -716,7 +716,6 @@ I'm always excited to connect with fellow technologists, entrepreneurs, and inno
 <br>
 
 <!-- Contact Information -->
-<!-- Contact Information -->
 <table align="center">
   <tr>
     <td align="center" width="25%">
@@ -755,11 +754,6 @@ If you find my projects helpful or inspiring, consider:
 
 <br>
 
-<!-- Coffee Badge -->
-<a href="https://github.com/Jainilgupta02">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
-
 </div>
 
 <!-- ====================================================================== -->
@@ -776,7 +770,7 @@ If you find my projects helpful or inspiring, consider:
 <br>
 <img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="70"/><br><br>
 <b>📊 Lines of Code Written</b><br>
-<h3><code>50,000+</code></h3>
+<h3><code>500+</code></h3>
 <sub>Across all repositories and projects</sub><br><br>
 </td>
 <td align="center" width="33%">
@@ -790,7 +784,7 @@ If you find my projects helpful or inspiring, consider:
 <br>
 <img src="https://img.icons8.com/fluency/96/000000/brain.png" width="70"/><br><br>
 <b>🧩 Problems Solved</b><br>
-<h3><code>500+</code></h3>
+<h3><code>50+</code></h3>
 <sub>Debugging, optimizing, innovating</sub><br><br>
 </td>
 </tr>
@@ -799,14 +793,14 @@ If you find my projects helpful or inspiring, consider:
 <br>
 <img src="https://img.icons8.com/fluency/96/000000/workflow.png" width="70"/><br><br>
 <b>🚀 Projects Deployed</b><br>
-<h3><code>20+</code></h3>
+<h3><code>3+</code></h3>
 <sub>Production-ready applications</sub><br><br>
 </td>
 <td align="center">
 <br>
 <img src="https://img.icons8.com/fluency/96/000000/certificate.png" width="70"/><br><br>
 <b>🏆 Certifications Earned</b><br>
-<h3><code>7+</code></h3>
+<h3><code>5+</code></h3>
 <sub>Microsoft Azure & Industry certs</sub><br><br>
 </td>
 <td align="center">
@@ -820,24 +814,6 @@ If you find my projects helpful or inspiring, consider:
 </table>
 
 <br>
-
-<!-- Additional Metrics -->
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/GitHub_Stars-50+-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Commits_This_Year-500+-green?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Languages_Mastered-6+-blue?style=for-the-badge&logo=stackoverflowlogoColor=white" alt="Languages"/>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Cloud_Projects-15+-purple?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud"/>
-</td>
-</tr>
-</table>
 
 </div>
 

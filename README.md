@@ -39,7 +39,7 @@
 <tr>
 
 <!-- LEFT SIDE: ABOUT ME TEXT -->
-<td width="60%" valign="top">
+<td valign="top" style="max-width: 650px;">
 
 ```yaml
 name: Jainil R. Gupta  
@@ -80,7 +80,7 @@ fun_fact: "Transitioned from IPS aspirations to Tech Entrepreneurship 💡"
 ```
 </td> <!-- RIGHT SIDE: YOUR GIF --> <td width="40%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/jainilgupta02/DevOps-Portfolio/main/assets/devops-jay.gif" width="320" style="border-radius: 16px; box-shadow: 0 0 20px rgba(14,165,233,0.6);" />
+<img src="https://raw.githubusercontent.com/jainilgupta02/DevOps-Portfolio/main/assets/devops-jay.gif" width="260" style="border-radius: 16px; box-shadow: 0 0 20px rgba(14,165,233,0.6);" />
 
 </td> </tr> </table> <br/> <!-- =================================================== -->
 
